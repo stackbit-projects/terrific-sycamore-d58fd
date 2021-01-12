@@ -13,7 +13,7 @@ sections:
         style: primary
         has_icon: true
         icon: youtube
-      - label: Learn More
+      - label: Contact Us
         url: /features
         style: secondary
     image: images/classic/hero.png
