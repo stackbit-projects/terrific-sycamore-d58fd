@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Try Free
         url: /pricing
-        style: primary
+        style: secondary
         has_icon: true
         icon: youtube
       - label: Learn More
