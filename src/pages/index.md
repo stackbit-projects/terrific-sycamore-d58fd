@@ -11,6 +11,7 @@ sections:
       - label: Try Free
         url: /pricing
         style: link
+        has_icon: true
       - label: Learn More
         url: /features
         style: secondary
