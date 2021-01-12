@@ -12,6 +12,7 @@ sections:
         url: /pricing
         style: link
         has_icon: true
+        icon: facebook
       - label: Learn More
         url: /features
         style: secondary
