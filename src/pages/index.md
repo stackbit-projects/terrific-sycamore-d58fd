@@ -8,7 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id [molestie](a.com) vel.
     actions:
-      - label: Try Free
+      - label: Watch how it works
         url: /pricing
         style: primary
         has_icon: true
